@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/Rurmin.svg)](https://ghcommits.com/u/Rurmin)
+
+
+
 <!--
 **Rurmin/Rurmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
