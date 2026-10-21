@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![GitHub Commits Badge](https://ghcommits.com/api/badge/Rurmin.svg)](https://ghcommits.com/u/Rurmin)
-[![committers.top badge](https://user-badge.committers.top/venezuela/Rurmin.svg)](https://user-badge.committers.top/venezuela/Rurmin)
+<!--[![committers.top badge](https://user-badge.committers.top/venezuela/Rurmin.svg)](https://user-badge.committers.top/venezuela/Rurmin)-->
 
 
 <!--
